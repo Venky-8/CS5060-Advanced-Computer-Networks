@@ -63,4 +63,4 @@ For the previous two terminals proceed by entering filename with extension of an
 $ Enter filename of any file in the server to receive: v1.txt
 File will be received and saved in ./client_data directory
 
-### That's all.
+### That's all :)
