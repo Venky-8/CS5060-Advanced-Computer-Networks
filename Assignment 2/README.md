@@ -2,9 +2,9 @@
 
 *See problem statement in Assignment2.pdf*
 
-**This assignment has two parts.
-In part A, I had to write a file server which sends any file (.txt/.png/.pdf) to the client depending on the requested file.
-In part B, I had to extend the file server program in part A to serve multiple clients in parallel without making any client wait.
+**This assignment has two parts.  
+In part A, I had to write a file server which sends any file (.txt/.png/.pdf) to the client depending on the requested file.  
+In part B, I had to extend the file server program in part A to serve multiple clients in parallel without making any client wait.  
 Additionally, the maximum number of clients which can parallely download files can be set at the server.**
 
 ## Part A
