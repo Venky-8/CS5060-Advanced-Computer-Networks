@@ -1,3 +1,7 @@
+# Assignment 3
+
+*See problem statement in assignment3.pdf*
+
 Code files are bootstrap.cpp, video_server.cpp, image_server.cpp, pdf_server.cpp, text_server.cpp, client.cpp and client2.cpp
 
 Files in server which can be sent to client are: record.mp4, moments.mp3, sample.mp4 (which can be requested by replacing image_server in below steps with video_server) etc. can be found in server_data directory.
@@ -71,6 +75,6 @@ This client will output: "Client limit reached at server" and exit (i.e. Program
 Server will output same and stop receiving new client requests.
 
 
-PLAGIARISM STATEMENT: I certify that this assignment/report is my own work, based on my personal study and/or research and that I have acknowledged all material and sources used in its preparation, whether they be books, articles, reports, lecture notes, and any other kind of document, electronic or personal communication. I also certify that this assignment/report has not previously been submitted for assessment in any other course, except where specific permission has been granted from all course instructors involved, or at any other time in this course, and that I have not copied in part or whole or otherwise plagiarized the work of other students and/or persons. I pledge to uphold the principles of honesty and responsibility at CSE@IITH. In addition, I understand my responsibility to report honor violations by other students if I become aware of it.
+**PLAGIARISM STATEMENT**: I certify that this assignment/report is my own work, based on my personal study and/or research and that I have acknowledged all material and sources used in its preparation, whether they be books, articles, reports, lecture notes, and any other kind of document, electronic or personal communication. I also certify that this assignment/report has not previously been submitted for assessment in any other course, except where specific permission has been granted from all course instructors involved, or at any other time in this course, and that I have not copied in part or whole or otherwise plagiarized the work of other students and/or persons. I pledge to uphold the principles of honesty and responsibility at CSE@IITH. In addition, I understand my responsibility to report honor violations by other students if I become aware of it.
 Name of the student: Venkatesh Mangnale
 Roll No: CS22MTECH14006
