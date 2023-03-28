@@ -3,6 +3,7 @@ This repository contains code for the assignments done as part of the course "CS
 
 ## Assignment 2 - Socket Programming
 
+![Screenshot](asgn2.png)
 *See problem statement in Assignment 2/Assignment2.pdf*
 
 This assignment has two parts.  
@@ -11,7 +12,8 @@ In part B, I had to extend the file server program in part A to serve multiple c
 Additionally, the maximum number of clients which can parallely download files can be set at the server.**
 
 ## Assignment 3 - Socket Programming
-
+![Screenshot](asgn3-1.png)
+![Screenshot](asgn3-2.png)
 *See problem statement in Assignment 3/Assignment3.pdf*
 
 In this assignment I had to create a bootstrap server which serves the following functions:  
