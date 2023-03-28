@@ -7,7 +7,7 @@ In part A, I had to write a file server which sends any file (.txt/.png/.pdf) to
 In part B, I had to extend the file server program in part A to serve multiple clients in parallel without making any client wait.  
 Additionally, the maximum number of clients which can parallely download files can be set at the server.**
 
-## Part A
+## Run Part A
 
 Code files are serverA.cpp and client.cpp
 
@@ -28,7 +28,7 @@ $ Enter filename of any file in the server to receive: v1.txt
 
 File will be received and saved inside ./client_data directory
 
-## Part B
+## Run Part B
 
 Code files are serverB.cpp and client.cpp
 
@@ -63,7 +63,4 @@ For the previous two terminals proceed by entering filename with extension of an
 $ Enter filename of any file in the server to receive: v1.txt
 File will be received and saved in ./client_data directory
 
-
-PLAGIARISM STATEMENT: I certify that this assignment/report is my own work, based on my personal study and/or research and that I have acknowledged all material and sources used in its preparation, whether they be books, articles, reports, lecture notes, and any other kind of document, electronic or personal communication. I also certify that this assignment/report has not previously been submitted for assessment in any other course, except where specific permission has been granted from all course instructors involved, or at any other time in this course, and that I have not copied in part or whole or otherwise plagiarized the work of other students and/or persons. I pledge to uphold the principles of honesty and responsibility at CSE@IITH. In addition, I understand my responsibility to report honor violations by other students if I become aware of it.
-Name of the student: Venkatesh Mangnale
-Roll No: CS22MTECH14006
+### That's all.
