@@ -1,6 +1,6 @@
-# Assignment 3
+# Assignment 3 - Socket Programming
 
-*See problem statement in assignment3.pdf*
+*See problem statement in Assignment3.pdf*
 
 Code files are bootstrap.cpp, video_server.cpp, image_server.cpp, pdf_server.cpp, text_server.cpp, client.cpp and client2.cpp
 
