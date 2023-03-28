@@ -2,7 +2,7 @@
 
 *See problem statement in Assignment3.pdf*
 
-**In this assignment I had to create a bootstrap server which serves the following functions:  
+**In this assignment I had to create a bootstrap server which serves the following functions:**  
 1. Registeration of services by the file servers at bootstrap server (MSGTYPE: REGISTRN).
 2. Discovery of the services by the client at bootstrap server (MSGTYPE: REGISTRN).  
 
