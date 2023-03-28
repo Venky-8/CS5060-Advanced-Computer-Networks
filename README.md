@@ -3,7 +3,7 @@ This repository contains code for the assignments done as part of the course "CS
 
 ## Assignment 2 - Socket Programming
 
-![Screenshot](asgn2.png)
+![Screenshot](asgn2.png)  
 *See problem statement in Assignment 2/Assignment2.pdf*
 
 This assignment has two parts.  
@@ -13,7 +13,7 @@ Additionally, the maximum number of clients which can parallely download files c
 
 ## Assignment 3 - Socket Programming
 ![Screenshot](asgn3-1.png)
-![Screenshot](asgn3-2.png)
+![Screenshot](asgn3-2.png)  
 *See problem statement in Assignment 3/Assignment3.pdf*
 
 In this assignment I had to create a bootstrap server which serves the following functions:  
